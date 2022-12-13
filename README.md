@@ -10,3 +10,6 @@ Dữ liệu đầu vào: Dữ liệu đầu vào của mô hình dự đoán là
 
 # Các file trong git
 Các tệp và thư mục trong git này bao gồm:
+* file requirement.txt chứa các thư viện cần dùng để train
+* file foody-sentiment-4.ipynb dùng để train
+* folder data chứa những file csv để train, validate và test
