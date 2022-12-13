@@ -14,3 +14,4 @@ Các tệp và thư mục trong git này bao gồm:
 * file foody-sentiment-4.ipynb dùng để train
 * folder data chứa những file csv để train, validate và test
 * Những dữ liệu có thể tìm được ở trang web https://www.kaggle.com/competitions/int3405-sentiment-analysis-problem
+* https://github.com/DoDuc1003/ML-Sentiment-Final-Project
